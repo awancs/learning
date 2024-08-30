@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+#tengah{
+    margin-left: 60px;
+    width: 67%;
+}
+
+#bg{
+    background-color: #101d57;
+    margin: 0;
+    padding: 12px;
+    min-height: 100vh;
+}
+
+h3, label, button{
+    color: white;
+}
+
+p{
+    color: #12b40c;
+    font-family: Caveat; 
+}
+
+input{
+    background-color: #1E2A5E;
+}
+
+input[type=text]{
+	color:rgb(255, 255, 255);
+	transition:all 0.5s ease;
+	}
+	input[type=text]:focus{
+		color:rgb(251, 251, 253);
+	}
+input[type=email]{
+	color:rgb(255, 255, 255);
+	transition:all 0.5s ease;
+	}
+	input[type=email]:focus{
+		color:rgb(251, 251, 253);
+	}
+input[type=password]{
+	color:rgb(255, 255, 255);
+	transition:all 0.5s ease;
+	}
+	input[type=password]:focus{
+		color:rgb(251, 251, 253);
+	}
+
+
+#baris, .bg-cover{
+    min-height: 100vh;
+}
+
+.col-8{
+    background-color: #41B3A2;
+}
+
+
+button, .btn{
+    border: 3px;
+    border-color: aquamarine;
+}
+
+label{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+img{
+    width: 200px;
+}
